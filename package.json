@@ -1,0 +1,29 @@
+{
+  "name": "canvas-study",
+  "version": "0.1.0",
+  "description": "HTML5 Canvas 核心技术学习",
+  "main": "index.js",
+  "dependencies": {
+    "vuepress": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruizer/canvas-study.git"
+  },
+  "keywords": [
+    "canvas",
+    "html5"
+  ],
+  "author": "ruizer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruizer/canvas-study/issues"
+  },
+  "homepage": "https://github.com/ruizer/canvas-study#readme"
+}
