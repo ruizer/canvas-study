@@ -3,7 +3,7 @@ home: true
 heroImage: //images/logo.png
 heroText: 
 actionText: 开始学习
-actionLink: /book/base/
+actionLink: /book/base
 features:
 - title: 介绍
   details: 本教程涉及Canvas元素的各种功能特性，如何利用Canvas进行图形绘制、动画制作等
