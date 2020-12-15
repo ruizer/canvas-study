@@ -2,7 +2,7 @@ module.exports = {
     base: "/canvas-study",
     title: "canvas核心技术",
     description: "关于html5 canvas的一些知识集锦",
-    head: [["link", { rel: "icon", href: "//images/icon.png" }]],
+    head: [["link", { rel: "icon", href: "//images/favicon.png" }]],
     markdown: {
         lineNumbers: true,
         anchor: {
