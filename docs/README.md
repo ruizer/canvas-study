@@ -1,15 +1,16 @@
 ---
 home: true
-heroImage: //images/logo.png
-heroText: 
+heroImage: 
+heroText: Canvas 动画
+tagline: 如何借助 Canvas 和数学物理的知识在 Web 上创建交互式动画
 actionText: 开始学习
-actionLink: /book/base
+actionLink: /book/
 features:
-- title: 介绍
-  details: 本教程涉及Canvas元素的各种功能特性，如何利用Canvas进行图形绘制、动画制作等
-- title: 适用人群
-  details: 准备系统性学习Canvas，进一步了解Canvas特性，如果您能够熟练使用CSS、HTML与Javascript，那就更好了
-- title: 不定时更新
-  details: 教程还未完结，文章不定时更新，欢迎收藏或star
+- title: 主要内容
+  details: 动画的基本概念、动画中的三角学、速度向量和加速度、边界和摩擦力、用户交互、缓动和弹动的原理、碰撞检测、撞球物理、粒子与万有引力、从 2D 到 3D 等等
+- title: 学前基础
+  details: JS 的基础语法、ES6 的常用语法、事件、面向对象的编程基础、以及对 HTML5 中 canvas 的 api 的基本了解
+- title: 笔记来源
+  details: 妙趣课堂Canvas动画揭秘
 footer: MIT Licensed | Copyright © 2020-present Evan You
 ---
