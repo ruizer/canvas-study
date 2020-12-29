@@ -13,6 +13,7 @@ module.exports = {
         },
     },
     themeConfig: {
+        lastUpdated: '上次更新',
         nav: [
             { text: "主页", link: "/" },
             { text: "Github", link: "https://github.com/ruizer/canvas-study" },
@@ -23,6 +24,7 @@ module.exports = {
                     title: "运动和三角函数",
                     collapsable: false,
                     path: "/book/move-triangle/",
+                    sidebarDepth: 2,
                     children: [
                         "move-triangle/01",
                         "move-triangle/02",
